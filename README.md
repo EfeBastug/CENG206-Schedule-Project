@@ -1,6 +1,6 @@
 ## CENG206 Scheduling Project
 
-This is a project for the CENG206 class. It is a scheduling website that takes several CSV files from the user, parses them, and according to the information in the CSV files, such as course, classroom, classroom and service class information.
+This is a project for the CENG206 class. It is a scheduling website that takes several CSV files from the user, parses them, and according to the information in the CSV files, such as course, classroom, classroom and service class information. The website was made using the React library.
 It takes several constraints into consideration and makes a schedule accordingly and then displays the schedule. Then, the user can make modifications to the information such as adding new courses and classrooms and the schedule will change
 according to the modified information.
 - How to install.txt file has instructions for installing the project and getting it running.
